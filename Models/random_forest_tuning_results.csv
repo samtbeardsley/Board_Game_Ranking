@@ -1,0 +1,2 @@
+,number,value,datetime_start,datetime_complete,duration,params_bootstrap,params_criterion,params_max_features,params_min_auc,params_min_samples_leaf,params_min_samples_split,params_n_estimators,system_attrs_fail_reason,state
+0,0,,2020-09-27 23:47:26.235976,2020-09-27 23:47:26.247290,0 days 00:00:00.011314,False,gini,sqrt,-0.003,9,11,1000,"Trial 0 failed because of the following error: ValueError('scoring value should either be a callable, string or None. 0.4210620899263524 was passed')",FAIL
